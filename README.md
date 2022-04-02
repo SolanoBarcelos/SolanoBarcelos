@@ -1,4 +1,4 @@
-## Oi!! Sejam bem Vindos!!
+## Oi!! Sejam bem vindes!!
 
 ### Eu sou o Solano Barcelos,
 
