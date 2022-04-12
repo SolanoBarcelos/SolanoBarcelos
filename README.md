@@ -2,7 +2,7 @@
 
 ### Eu sou o Solano Barcelos,
 
-- Profissional em transição de carreira pra área de desenvolvimento e programação. 
+- Profissional em transição de carreira para área de desenvolvimento e programação. 
 - Desenvolvedor WEB Full Stack Jr. formado pela RecodePro - 2022.
 
 #### Conheça mais sobre mim:
