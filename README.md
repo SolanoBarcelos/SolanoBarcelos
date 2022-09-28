@@ -1,8 +1,8 @@
-## Oi!! Sejam bem vindes!!
+## Oi!! 
 
 ### Eu sou o Solano Barcelos,
 
-- Profissional em transição de carreira para área de desenvolvimento e programação. 
+- Junior Developer in Negocie On line. 
 - Desenvolvedor Full Stack Jr. formado pela RecodePro - 2022.
 - Liguagem principal - C#.
 
