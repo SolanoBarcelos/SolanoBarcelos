@@ -2,8 +2,8 @@
 
 ### Eu sou o Solano Barcelos,
 
-- Junior Developer in Negocie On line. 
-- Desenvolvedor Full Stack Jr. formado pela RecodePro - 2022.
+- Desenvolvedor Junior na Negocie Online. 
+- Bootcamp RecodePro - 2022.
 - Liguagem principal - C#.
 
 #### Conheça mais sobre mim:
