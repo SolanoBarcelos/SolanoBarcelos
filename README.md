@@ -1,6 +1,6 @@
 ## Oi!! 
 
-### Eu sou o Solano Barcelos,
+### Eu sou Solano,
 
 - Desenvolvedor Junior na Negocie Online. 
 - Bootcamp RecodePro - 2022.
