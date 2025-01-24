@@ -2,7 +2,8 @@
 
 ### Eu sou Solano,
 
-- Desenvolvedor Junior na Negocie Online. 
+- Desenvolvedor de Software / Full Stack / HTML / CSS - Bootstrap / JavaScript / C# - .NET Core - ASP.NET Core / PostgreSQL / DevOps
+- Pos Graduando na Pos Tech .NET com Azure - FIAP
 - Bootcamp RecodePro - 2022.
 - Liguagem principal - C#.
 
