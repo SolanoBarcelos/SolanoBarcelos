@@ -2,7 +2,7 @@
 
 ### Eu sou Solano,
 
-- Desenvolvedor de Software / Full Stack / HTML / CSS - Bootstrap / JavaScript / C# - .NET Core - ASP.NET Core / PostgreSQL / DevOps
+- Desenvolvedor de Software / Full Stack / HTML / CSS - Bootstrap / JavaScript / C# - .NET Core - ASP.NET Core / Java - Spring / PostgreSQL / DevOps
 - Pos Graduando na Pos Tech .NET com Azure - FIAP
 - Bootcamp RecodePro - 2022.
 - Liguagem principal - C#.
@@ -33,5 +33,6 @@
   <img align="center" alt="Icon .net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="icon MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="icon PostgresSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="icon PostgresSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />          
 </div>
 
